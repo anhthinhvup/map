@@ -1,0 +1,6 @@
+{
+  "name": "Hanoi Customer Density Map",
+  "description": "Administrative customer distribution map for Hanoi old districts and exact drill-down coordinate explorer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
